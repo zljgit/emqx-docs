@@ -32,7 +32,7 @@
 1. 下载 [适用于你的操作系统和架构的 EMQX 软件包](https://www.emqx.io/downloads?os=macOS)。这是适用于搭载 macOS 12（Monterey）和 Apple Silicon 的 Mac 电脑的 zip 软件包的链接：
 
    ```bash
-   wget https://www.emqx.com/zh/downloads/broker/@CE_VERSION@/emqx-@CE_VERSION@-macos12-arm64.zi
+   wget https://www.emqx.com/en/downloads/broker/5.7.1/emqx-5.7.1-macos14-arm64.zip
    ```
 
 2. 安装 EMQX。
